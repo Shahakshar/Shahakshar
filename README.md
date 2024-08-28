@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi! there, Akshar Shah</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Akshar Shah </h1>
 
 🎓 Hello! Viewer, Akshar Shah currently pursuing MTech from Internation Institute Of Information Technology, Bangalore In The field of Computer Science and Engineering.<br>
 🌱 he is Android Developer, Problem Solver And freelancer<br>
