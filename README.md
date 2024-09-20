@@ -6,8 +6,7 @@
 <h3 >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p >
 <a href="https://www.linkedin.com/in/akshar-shah/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="AksharShah" /></a>
-<!-- <a href="https://codeforces.com/profile/mrunmayi" target="blank"><img src="https://img.shields.io/badge/codeforces-red?logo=codeforces&logoColor=white&style=for-the-badge" alt="mrunmayii"/></a>
-<a href="https://www.codechef.com/users/mrunmayii" target="blank"><img src="https://img.shields.io/badge/codechef-967444?logo=codechef&logoColor=white&style=for-the-badge" alt="mrunmayii"/></a> -->
+
 <a href="mailto:akdev6298@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>    
