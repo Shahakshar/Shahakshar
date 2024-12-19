@@ -36,5 +36,10 @@
 
 <strong>GitHub Stats ⚡</strong>
 <br>
-<img align="centre" src="https://github-readme-stats.vercel.app/api/?username=Shahakshar&hide_border=True&show_icons=True&layout=compact&theme=dark" />
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahakshar&theme=light&hide_border=true"/>
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=Shahakshar&show_icons=true&theme=radical" />
+<br>
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahakshar&layout=compact&theme=radical"/>
+
+<h3>Here you go..</h3>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
